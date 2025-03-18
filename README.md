@@ -34,10 +34,7 @@ To get started with Pax AI:
 
 ## Team
 
-Pax AI was founded by Penny Chen and Christopher Le, both bringing extensive experience in AI, machine learning, and logistics:
-
-- **Penny Chen, Co-Founder & CEO**: With a PhD from MIT, Penny has designed and built algorithms for pricing, forecasting, fulfillment, and capacity planning, optimizing workflows, costs, and quality across logistics and supply chain. :contentReference[oaicite:1]{index=1}
-- **Christopher Le, Co-Founder & CTO**: Chris has worked on scaling Amazon's supply chain network and built financial systems at Brex and TikTok, bringing a wealth of experience in software engineering and system optimization. :contentReference[oaicite:2]{index=2}
+Pax AI was founded by Arth Gupta and Mrinank Mahajan, both bringing extensive experience in AI, machine learning, and logistics:
 
 ## Contact
 
